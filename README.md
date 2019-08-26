@@ -1,3 +1,3 @@
 # beginnersNeural
 
-From the Coursera Neural Networks and Deep Learning mini course. 
+From the Coursera Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning mini course. 
